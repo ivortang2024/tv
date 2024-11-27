@@ -1,0 +1,13 @@
+{
+  "sites": [
+    {
+      "key": "test",
+      "name": "test",
+      "type": 1,
+      "api": "http://10.0.0.167:8000/m.json",
+      "searchable": 1,
+      "quicksearch": 1,
+      "filterable": 1
+    }
+  ]
+}

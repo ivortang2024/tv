@@ -1,0 +1,60 @@
+{
+    "class": [
+        {
+            "type_id": "type_id-A",
+            "type_name": "type_name-A"
+        },
+        {
+            "type_id": "type_id-B",
+            "type_name": "type_name_B"
+        }
+    ],
+    "filters": {
+        "type_id-B": [
+            {
+                "key": "key-A",
+                "name": "name-A",
+                "value": [
+                    {
+                        "n": "n-AA",
+                        "v": "v-AA"
+                    },
+                    {
+                        "n": "n-AB",
+                        "v": "v-AB"
+                    }
+                ]
+            },
+            {
+                "key": "key-B",
+                "name": "name-B",
+                "value": [
+                    {
+                        "n": "n-BA",
+                        "v": "v-BA"
+                    },
+                    {
+                        "n": "n-BB",
+                        "v": "v-BB"
+                    }
+                ]
+            }
+        ]
+    },
+    "list": [
+        {
+            "vod_id": "vod_id-A",
+            "vod_name": "vod_name-A",
+            "vod_pic": "vod_pic-A",
+            "vod_remarks": "vod_remarks-A",
+            "vod_year": "vod_year-A"
+        },
+        {
+            "vod_id": "vod_id-B",
+            "vod_name": "vod_name-B",
+            "vod_pic": "vod_pic-B",
+            "vod_remarks": "vod_remarks-B",
+            "vod_year": "vod_year-B"
+        }
+    ]
+}
