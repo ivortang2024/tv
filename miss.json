@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/tomson11/tv/raw/master/custom_spider.jar;",
+  "spider": "https://gitee.com/tomson11/tv/raw/master/custom_spider.jar;md5;a4184d6466230727a90c8944e80f388f",
   "sites": [
     {
       "key": "非凡APP",
