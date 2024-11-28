@@ -1,11 +1,11 @@
 {
-  "spider": "https://gitee.com/tomson11/tv/raw/master/custom_spider.jar;md5;af96b1484d96e1f860fe99acf4b2a912",
+  "spider": "https://gitee.com/tomson11/tv/raw/master/custom_spider.jar;md5;dfebf10598e6069aaab7b1f30fccf513",
   "sites": [
     {
       "key": "非凡APP",
       "name": "非凡APP",
       "type": 3,
-      "api": "csp_Ms",
+      "api": "csp_Miss",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
