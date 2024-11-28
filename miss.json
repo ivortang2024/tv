@@ -1,14 +1,15 @@
 {
+  "spider": "https://gitee.com/tomson11/tv/raw/master/custom_spider.jar;",
   "sites": [
     {
-			"key": "非凡APP",
-			"name": "非凡APP",
-			"type": 3,
-			"api": "csp_MS",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://missav.com/cn"
-		}
+      "key": "非凡APP",
+      "name": "非凡APP",
+      "type": 3,
+      "api": "csp_MS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://missav.com/cn"
+    }
   ]
 }
