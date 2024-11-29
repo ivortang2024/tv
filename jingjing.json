@@ -128,7 +128,7 @@
       "key": "优资源",
       "name": "优资源",
       "type": 3,
-      "ext": "https://api.1080zyku.com/inc/api_mac10.php",
+      "ext": "https://api.1080zyku.com/inc/api_mac10.php/",
       "api": "csp_Mac10Api",
       "searchable": 1,
       "quickSearch": 1,
