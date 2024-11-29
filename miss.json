@@ -12,10 +12,30 @@
       "ext": "https://missav.com/cn/"
     }
   ],
-  "rules": {
-    "name": "proxy",
-    "hosts": [
-      "missav.com"
-    ]
-  }
+   "rules": [
+    {
+      "name": "proxy",
+      "hosts": [
+        "api.haiwaikan.com",
+        "dp.haiwaikan.com",
+        "img.haiwaikan.com",
+        "m3u.haiwaikan.com",
+        "cdnb.v82u1l.com",
+        "cdn.v82u1l.com",
+        "cdn.kin6c1.com",
+        "cdn.iz8qkg.com",
+        "cdnb.kin6c1.com",
+        "cdnb.iz8qkg.com",
+        "kuaikan-cdn1.com",
+        "vip.kuaikan-cdn3.com",
+        "vip.kuaikan-cdn4.com",
+        "vip.kuaikan-play1.com",
+        "vip.kuaikan-play2.com"
+      ],
+      "regex": [
+        ".*kuaikan.*",
+        ".*haiwankan.com"
+      ]
+    }
+  ]
 }
