@@ -125,14 +125,14 @@
       ]
     },
     {
-      "key": "优资源",
-      "name": "优资源",
+      "key": "暴风APP",
+      "name": "暴风APP",
       "type": 3,
-      "ext": "https://api.1080zyku.com/inc/api_mac10.php/",
       "api": "csp_Mac10Api",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "ext": "https://bfzyapi.com/api.php/provide/vod/",
       "categories": [
         "香港剧",
         "国产剧",
