@@ -11,5 +11,11 @@
       "filterable": 1,
       "ext": "https://missav.com/cn/"
     }
+  ],
+  "rules": {
+  "name": "proxy",
+  "hosts": [
+    "missav.com"
   ]
+}
 }
