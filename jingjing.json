@@ -125,40 +125,13 @@
       ]
     },
     {
-      "key": "索尼资源",
-      "name": "索尼资源",
+      "key": "索资源",
+      "name": "优资源",
       "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8",
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "港剧",
-        "国产剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "台剧",
-        "海外剧",
-        "记录片",
-        "爱情片",
-        "犯罪片",
-        "科幻片",
-        "战争片",
-        "歌舞片",
-        "动画片",
-        "喜剧片",
-        "恐怖片",
-        "冒险片",
-        "剧情片",
-        "动作片",
-        "足球",
-        "篮球",
-        "网球",
-        "斯诺克",
-        "国产动漫",
-        "日韩动漫"
-      ]
+      "filterable": 1
     }
   ],
   "lives": [
