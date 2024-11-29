@@ -13,9 +13,9 @@
     }
   ],
   "rules": {
-  "name": "proxy",
-  "hosts": [
-    "missav.com"
-  ]
-}
+    "name": "proxy",
+    "hosts": [
+      "missav.com"
+    ]
+  }
 }
