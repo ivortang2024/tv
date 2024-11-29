@@ -16,6 +16,7 @@
     {
       "name": "proxy",
       "hosts": [
+        "missav.com",
         "api.haiwaikan.com",
         "dp.haiwaikan.com",
         "img.haiwaikan.com",
